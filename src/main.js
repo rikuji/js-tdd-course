@@ -2,4 +2,3 @@ function func() {
   return 'teste';
 }
 
-
