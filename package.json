@@ -4,8 +4,12 @@
   "description": "Biblioteca do Curso JSS com TDD",
   "main": "index.js",
   "scripts": {
-    "prepush":"npm run lint",
     "lint": "./node_modules/.bin/eslint src/*js"
+  },
+  "husky": {
+    "hooks": {
+      "pre-push": "npm run lint"
+    }
   },
   "repository": {
     "type": "git",
