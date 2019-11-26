@@ -1,0 +1,20 @@
+{
+  "name": "jstdd",
+  "version": "1.0.0",
+  "description": "Biblioteca do Curso JSS com TDD\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[C\u001b[",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[A\u001b[Bhttps://github.com/rikuji/js-tdd-course.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Lucas Valenzuela <lucasbezerra1701@gmail.com>",
+  "license": "ISC"
+}
